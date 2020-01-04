@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="hmj_name">HMJ Poilnes</string>
+    <string name="description">Dekripsi</string>
+
+    <string-array name="data_name">
+        <item>HMJ Elektro</item>
+        <item>HMJ Sipil</item>
+        <item>HMJ Mesin</item>
+        <item>HMJ Akuntansi</item>
+        <item>HMJ Administrasi Bisnis</item>
+        <item>UKM PCC</item>
+        <item>UKM Konsep</item>
+        <item>UKM PP</item>
+        <item>UKM KSR</item>
+        <item>UKM LPM Dimensi</item>
+        <item>UKM PECC</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Himpunan Mahasiswa Jurusan Teknik Elektro adalah salah satu Himpun
+an Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organ
+isasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tek
+nik Elektro untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Sipil adalah salah satu Himpunan
+Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis
+asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni
+k Sipil untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Teknik Mesin adalah salah satu Himpunan
+Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organis
+asi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan Tekni
+k Mesin untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Akutansi adalah salah satu Himpunan Mah
+asiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan organisasi
+kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusan akutansi
+untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Himpunan Mahasiswa Jurusan Administrasi Bisnis adalah salah satu H
+impunan Mahasiswa Jurusan yang ada di Politeknik Negeri Semarang yang merupakan
+organisasi kemahasiswaan di tingkat jurusan, yang dibentuk oleh mahasiswa Jurusa
+n Administrasi Bisnis
+untuk melaksanakan kegiatan Tri Dharma Perguruan Tinggi.</item>
+        <item>Unit Kegiatan Mahasiswa Polytechnic Computer Club atau biasa disin
+gkat UKM PCC, merupakan organisasi di Politeknik Negeri Semarang yang bergerak d
+i bidang informasi dan teknologi. UKM Polytechnic Computer Club secara eksplisit
+terbagi menjadi dua bagian inti, yaitu Workshop dan Organisasi.</item>
+        <item>UKM Komunitas Seni Polines merupakan satusatunya unit kegiatan mahasiswa di Politeknik Negeri Semarang yang bergerak di b
+idang Kesenian. Nama UKM Komunitas Seni Polines diresmikan pada tanggal 21 Juni
+2003. Fungsi UKM KoNSeP adalah sebagai satusatunya sarana pembangunan dan penyaluran minat dan bakat Mahasiswa Polines dala
+m bidang seni dan berorganisasi.</item>
+        <item>UKM Pengembangan Pengetahuan yang disingkat UKM PP merupakan salah satu Unit Kegiatan Mahasiswa di Politeknik Negeri
+Semarang yang sudah cukup berumur dan dibentuk pada tanggal 12 Mei 1997. Dalam kiprahnya cukup memberikan kontribusi yang
+tidak bisa dianggap remeh, namun dengan berkembangnya wacana dan idealisme mahasiswa maka kegiatan - kegiatan yang sifatnya sudah
+spesifik misalnya broad casting (sekarang PLBS) dan computer (sekarang PCC), mencoba memisahkan diri baik dari segi pengelolaan
+maupun struktural. Hal ini terjadi kira - kira antara tahun 1996 sampai dengan 1997, waktu itu pembina UKM
+Pengembangan Pengetahuan adalah ibu Ririn.</item>
+        <item>KSR PMI Unit Politeknik Negeri Semarang merupakan salah satu Unit Kegiatan Mahasiswa (UKM) di lingkungan
+Politeknik Negeri Semarang yang berorientasi khusus pada kegiatan tugas-tugas kemanusiaan. UKM KSR didirikan pada tanggal 1
+6 Agustus 1984 dengan nama KSR PMI Unit Undip sesuai nama dengan Politeknik saat itu, yaitu Politeknik Undip. Kemudian
+nama KSR PMI Unit Undip ini berubah nama menjadi KSR PMI Unit Politeknik Negeri Semarang (KSR PMI Unit Polines)pada
+tahun 1997. Hal ini disebabkan penyesuaian nama Politeknik yang pada tahun tersebut juga berubah menjadi Politeknik
+Negeri Semarang hingga sekarang.</item>
+        <item>Dimensi merupakan satu-satunya Lembaga Pers Mahasiswa (LPM) yang berada di lingkaran Keluarga Besar Mahasiswa (KBM)
+Politeknik Negeri Semarang. Kami memang tidak tahu tanggal pasti kapan berdirinya LPM Dimensi. Kami pun sudah mencari-cari
+tahu dan hasilnya tetap tidak ada kepastian. Oleh karena itu, berdasarkan musyawarah yang dilakukan oleh Anggota Badan Pekerja
+yang terdiri dari Pemimpin Umum (PU) periode 2018/2019, tiga orang pemimpin pilar periode 2018/2019, tiga kru perwakilan dari
+tingkat satu periode 2018/2019 yang dipilih oleh PU, dan PU periode 2017/2018 mengusulkan untuk ditetapkannya tanggal lahir
+LPM Dimensi. Kemudian pada Sabtu, 14 Juli 2018 yang bertepatan dengan sidang umum AD/ART, Gambaran Umum dan Petunjuk Pelaksanaan
+disepakati bahwa tanggal lahir LPM Dimensi yaitu 9 Febuari 1988. Yang mana 9 Febuari dipilih karena bertepatan dengan Hari Pers
+Nasional dan tahun 1988 dipilih berdasarkan tahun pertama majalah LPM Dimensi terbit.</item>
+        <item>UKM PECC merupakan unit kegiatan mahasiswa yang bertujuan untuk meningkatkan kemampuan penggunaan keterampi
+lan berbahasa Inggris bagi anggota aktif pada khususnya mahasiswa Politeknik Negeri Semarang pada umumnya. Berdiri sejak 10 Oktober 1994.</item>
+    </string-array>
+    <string-array name="photo">
+        <item>https://i.postimg.cc/QxdcLRBk/hme.jpg</item>
+        <item>https://i.postimg.cc/yxBXSxYw/hms.jpg</item>
+        <item>https://i.postimg.cc/LsL1BS7R/hmm.jpg</item>
+        <item>https://i.postimg.cc/3NS4Jxyj/hmak.jpg</item>
+        <item>https://i.postimg.cc/pLYvD1Z4/hmab.jpg</item>
+        <item>https://i.postimg.cc/8PGrdsgC/pcc.png</item>
+        <item>https://i.postimg.cc/QC3VqYPz/konsep.png</item>
+        <item>https://i.postimg.cc/y828kxhP/pp.png</item>
+        <item>https://i.postimg.cc/SK7LrBxw/ksr.jpg</item>
+        <item>https://i.postimg.cc/nr6T5vb5/lpmdimensi.jpg</item>
+        <item>https://i.postimg.cc/t4PRLyPm/pecc.jpg</item>
+    </string-array>
+</resources>

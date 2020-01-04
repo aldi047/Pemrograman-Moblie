@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485872448280",
+    "firebase_url": "https://daftar-belanja-harian-3dc4a.firebaseio.com",
+    "project_id": "daftar-belanja-harian-3dc4a",
+    "storage_bucket": "daftar-belanja-harian-3dc4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485872448280:android:8fdd9fb00ff956c478646d",
+        "android_client_info": {
+          "package_name": "aldi.krobok.myshoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485872448280-r278cfagp3c6atvrv193phqp6tcpufp5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlsrdhYpx3RdIbfF64sifAv8XJCLUU3JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485872448280-r278cfagp3c6atvrv193phqp6tcpufp5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

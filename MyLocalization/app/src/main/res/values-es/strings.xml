@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">MyLocalizationApp</string>
+    <string name="football">Equipo nacional de Indonesia gana ontra equipo nacional de Malaysia</string>
+    <string name="goal">Gol de Indonesia anotado por %1$s y %2$s, ntonces el puntaje final es %3$d - %4$d por la victoria de ndonesia </string>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="one">%d canción fundar.</item>
+        <item quantity="other">%d canciónes fundar.</item>
+    </plurals>
+    <string name="app_homeurl">visita nosotros en <xliff:g
+        id="application_homepage">https://www.polines.ac.id</xliff:g></string>
+    <string name="change_language_settings">Cambiar configuración e idioma</string>
+    <string name="tab_text1">Casa</string>
+    <string name="tab_text2">Perfil</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profil">Perfil</string>
+    <string name="name">Nombre</string>
+    <string name="myname">: Aldi Azmi Arfian</string>
+    <string name="address">Direcion</string>
+    <string name="myaddress">: Brebes, Java Central</string>
+    <string name="hobby">Aficion</string>
+    <string name="myhobby">: jugando un juego</string>
+    <string name="quotes">Citas</string>
+    <string name="myquotes">: Paso a Paso</string>
+</resources>

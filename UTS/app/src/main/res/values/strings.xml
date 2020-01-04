@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SubmissionDicoding</string>
+    <string name="nama">Aldi Azmi Arfian</string>
+    <string name="email">aldiazmi981@gmail.com</string>
+    <string name="link">Untuk keterangan lebih lanjut kujungi :</string>
+    <string name="sumber_satu">http://cyber-twenty.blogspot.com/2018/01/urutan-generasi-prosesor-intel-dan.html</string>
+    <string name="sumber_dua">https://www.murdockcruz.com/2018/10/09/prosesor-terbaru-intel-9th-gen-resmi-diluncurkan-ini-dia-detail-spesifikasinya/#.XcgklDMza00</string>
+    <string name="sumber_tiga">http://www.jagatreview.com/2019/08/menyusul-ice-lake-prosesor-intel-core-i-10th-gen-comet-lake-u-series-y-series-dirilis/</string>
+    <string name="sumber_keempat">https://www.suara.com/tekno/2019/08/02/110729/intel-luncurkan-prosesor-generasi-ke-10-dijuluki-ice-lake</string>
+
+</resources>
